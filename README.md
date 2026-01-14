@@ -22,7 +22,7 @@
   <td> <!-- Aprendendo linguagens -->
     <br clear="both">
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,py,linux,windows&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,py,linux,git,mysql&perline=5" />
 </div>
   
 </div>
