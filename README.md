@@ -8,8 +8,8 @@
 <br clear="both">
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=kelvindsm&show_icons=true&count_private=true&hide_border=true&theme=cobalt" alt="Kelvin github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=kelvindsm&layout=compact&hide_border=true&theme=cobalt" />
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=kelvindsm&show_icons=true&count_private=true&hide_border=true&theme=prussian" alt="Kelvin github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=kelvindsm&layout=compact&hide_border=true&theme=prussian" />
 </div>
 
 
