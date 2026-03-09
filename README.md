@@ -7,9 +7,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvindsm&theme=prussian&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvindsm&theme=prussian&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=kelvindsm&show_icons=true&count_private=true&hide_border=true&theme=cobalt" alt="Kelvin github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=kelvindsm&layout=compact&hide_border=true&theme=cobalt" />
 </div>
 
 
