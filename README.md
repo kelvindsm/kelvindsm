@@ -2,12 +2,19 @@
 
 <hr>
 
+
+###
+
 <br clear="both">
-<div align="left">  
-  <img width="48%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=kelvindsm&show_icons=true&count_private=true&hide_border=true&theme=prussian" alt="Kelvin github stats"/> 
-  <img width="48%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=kelvindsm&layout=compact&hide_border=true&theme=prussian" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvindsm&theme=prussian&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvindsm&theme=prussian&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"/>
 </div>
+
+
 <hr>
+
 <table align="center">
   <tr>
     <th> <h2 align="center">Languages, tools and OS's</h2> </th>
@@ -17,7 +24,7 @@
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=java,py,linux,git,mysql&perline=5" />
 </div>
-  
+
 </div>
   </td>
 </table>
